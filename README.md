@@ -1,3 +1,4 @@
+<img align="center" src="C:\Users\Khusi Agarwal\Downloads/khushibanner">
 <h1 align="center">Hi 👋, I'm KHUSHI AGARWAL</h1>
 <h3 align="center">I am a second Year CSE student at MNNIT Allahabad and passionate about coding and development.</h3>
 
