@@ -1,4 +1,4 @@
-<img align="center" src="C:\Users\Khusi Agarwal\Downloads/khushibanner">
+<img align="center" src="https://github.com/khushi-web/khushi-web/blob/main/Pink%20and%20Blue%20Galaxy%20Gaming%20YouTube%20Channel%20Art.gif">
 <h1 align="center">Hi 👋, I'm KHUSHI AGARWAL</h1>
 <h3 align="center">I am a second Year CSE student at MNNIT Allahabad and passionate about coding and development.</h3>
 
