@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DSA,android development and open source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/khushi-web](https://github.com/khushi-web) 
+- 👨‍💻 All of my projects are available at [https://github.com/khushi-web](https://github.com/khushi-web) and also at devfolio 
 
 - 📫 How to reach me **lestrangebellatrix11@gmail.com**
 
