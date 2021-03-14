@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/khushi-web/khushi-web/blob/main/Pink%20and%20Blue%20Galaxy%20Gaming%20YouTube%20Channel%20Art.gif">
+<img align="center" src="https://github.com/khushi-web/khushi-web/blob/main/Pink%20and%20Blue%20Galaxy%20Gaming%20YouTube%20Channel%20Art%20(1).gif">
 <h1 align="center">Hi ,<img  width="95" src="https://cdn.dribbble.com/users/706421/screenshots/12483038/media/14790c282180370281689e90d8234081.gif"> I'm KHUSHI AGARWAL</h1>
 <h3 align="center">I am a second Year CSE student at MNNIT Allahabad and passionate about coding and development.</h3>
 
