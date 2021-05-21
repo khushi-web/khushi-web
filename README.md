@@ -8,9 +8,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2424870/screenshots/9681857/media/e2ba35a0106e60cb0960f3963304cef8.gif">
 
-- 🔭 I’m currently working on **GSSOC - girlscript summer of code 2021 and DSA**
 
-- 🌱 I’m currently learning **DSA,android development and open source**
+- 🌱 I’m currently learning **DSA and open source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khushi-web](https://github.com/khushi-web) and also at devfolio 
 
