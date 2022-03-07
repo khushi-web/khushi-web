@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lestrangebellatrix11@gmail.com**
 
-- ⚡ Fun fact **I think I can watch Korean-dramas forever.**
+- ⚡ About Me **I love watching k-dramas and I am a BTS Army.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
